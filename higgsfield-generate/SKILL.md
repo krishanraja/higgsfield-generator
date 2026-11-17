@@ -311,7 +311,7 @@ See `references/troubleshooting.md` for more.
 Load on demand:
 
 - `references/model-catalog.md` — picking the right model for the task
-- `references/workflows.md` — `draw_to_video` and `reframe` workflow generation
+- `references/workflows.md` — workflow discovery, generation, and cost estimates
 - `references/prompt-engineering.md` — writing prompts that work
 - `references/media-inputs.md` — image/video/audio reference flows and Virality Predictor video analysis
 - `references/troubleshooting.md` — common errors and fixes
